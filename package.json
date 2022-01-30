@@ -1,7 +1,7 @@
 {
-  "name": "draggable-ts",
-  "version": "0.1.1",
-  "private": true,
+  "name": "doodle-draggable",
+  "version": "0.1.2",
+  "main": "./dist/useDraggable.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
