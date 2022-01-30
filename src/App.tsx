@@ -1,12 +1,5 @@
-/*
- * @Author: hujianbo
- * @LastEditors: Hujianbo
- */
-/*
- * @Author: hujianbo
- * @LastEditors: hujianbo
- */
-import React, { useEffect } from 'react';
+
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import useDraggable from './useDraggable';
