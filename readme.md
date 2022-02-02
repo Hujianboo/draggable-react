@@ -1,9 +1,9 @@
 # draggable-react
 
 ## Introduction
-A react hook of dragging specified element
-https://img.shields.io/npm/v/doodle-draggable
+A react hook of dragging specified element 
 
+[![Version](https://img.shields.io/npm/v/doodle-draggable)](https://www.npmjs.com/package/doodle-draggable)
 ## Install
 Install draggable-react by using
 ``` 
